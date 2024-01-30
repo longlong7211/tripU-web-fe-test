@@ -1,0 +1,17 @@
+.mini-new-container {
+  width: 100%;
+  max-width: 350px;
+  height: 100px;
+
+  .news-img {
+    img {
+      width: 150px;
+      height: auto;
+    }
+  }
+
+  .news-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}

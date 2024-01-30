@@ -1,0 +1,20 @@
+.bignews-container {
+  width: 100%;
+  max-width: 500px;
+  max-height: 500px;
+
+  .bignews-img {
+    img {
+      width: 100%;
+      max-width: 500px;
+      height: auto;
+    }
+  }
+
+  .bignews-title {
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .bignews-content {}
+}

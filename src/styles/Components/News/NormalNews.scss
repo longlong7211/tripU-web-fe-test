@@ -1,0 +1,17 @@
+.normal-news-container {
+  .news-img {
+    img {
+      width: 100%;
+      max-width: 250px;
+    }
+  }
+
+  .news-body {
+    .news-title {
+      font-weight: bold;
+      font-size: 20px;
+    }
+
+    .news-content {}
+  }
+}
